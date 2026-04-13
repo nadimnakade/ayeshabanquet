@@ -1,0 +1,8 @@
+[build]
+  publish = "."
+
+# Optional: Configuration for common SPA routing if needed in the future
+# [[redirects]]
+#   from = "/*"
+#   to = "/index.html"
+#   status = 200
